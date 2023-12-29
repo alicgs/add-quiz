@@ -15,6 +15,14 @@ body{
     border-radius: 10px;
     padding: 30px;
 }
+
+#quiz-ata{
+    width: 150px;
+    position: absolute;
+    opacity: 0.3;
+    left: 880px;
+    top: 255px;
+}
 .app h1{
     font-size: 25px;
     color: #001e4d;
